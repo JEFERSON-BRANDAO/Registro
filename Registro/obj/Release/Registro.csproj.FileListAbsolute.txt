@@ -1,0 +1,20 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Registro\Registro\bin\Registro.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Registro\Registro\bin\Registro.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Registro\Registro\obj\Release\Registro.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Registro\Registro\obj\Release\Registro.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Registro\Registro\obj\Release\Registro.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Registro\Registro\obj\Release\Registro.csprojResolveAssemblyReference.cache
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Registro\Registro\bin\Registro.dll
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Registro\Registro\bin\Registro.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Registro\Registro\obj\Release\Interop.ORAOLEDBLib.dll
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Registro\Registro\obj\Release\Registro.csproj.ResolveComReference.cache
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Registro\Registro\obj\Release\Registro.dll
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Registro\Registro\obj\Release\Registro.pdb
+C:\Users\bc1g7962\Downloads\progr\programas\Registro\Registro\bin\Registro.dll.config
+C:\Users\bc1g7962\Downloads\progr\programas\Registro\Registro\bin\Registro.dll
+C:\Users\bc1g7962\Downloads\progr\programas\Registro\Registro\bin\Registro.pdb
+C:\Users\bc1g7962\Downloads\progr\programas\Registro\Registro\obj\Release\Registro.csproj.AssemblyReference.cache
+C:\Users\bc1g7962\Downloads\progr\programas\Registro\Registro\obj\Release\Registro.csproj.ResolveComReference.cache
+C:\Users\bc1g7962\Downloads\progr\programas\Registro\Registro\obj\Release\Registro.csproj.CoreCompileInputs.cache
+C:\Users\bc1g7962\Downloads\progr\programas\Registro\Registro\obj\Release\Registro.dll
+C:\Users\bc1g7962\Downloads\progr\programas\Registro\Registro\obj\Release\Registro.pdb

@@ -1,0 +1,13 @@
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Registro\Registro\bin\Registro.dll
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Registro\Registro\bin\Registro.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Registro\Registro\obj\Debug\Interop.ORAOLEDBLib.dll
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Registro\Registro\obj\Debug\Registro.csproj.ResolveComReference.cache
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Registro\Registro\obj\Debug\Registro.dll
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Registro\Registro\obj\Debug\Registro.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Registro\Registro\obj\Debug\Registro.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Registro\Registro\bin\Registro.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Registro\Registro\bin\Registro.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Registro\Registro\obj\Debug\Registro.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Registro\Registro\obj\Debug\Registro.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Registro\Registro\obj\Debug\Registro.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Registro\Registro\obj\Debug\Registro.pdb
